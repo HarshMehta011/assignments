@@ -1,0 +1,106 @@
+1. What are the four important <meta> tags we use in SEO?
+ans. Title Tags. The title tag is your main and most important anchor. ...
+Meta Description Tags. ...
+Heading Tags (H1-H6) ...
+Image Alt Attributes. ...
+Nofollow Attributes. ...
+Robots Meta Tag. ...
+rel=”canonical” Link Tag. ...
+Schema Markup.
+
+2.What is the use of open-graph tags in a website?
+ans.Open Graph Protocol (OGP) is a set of tags used on websites to define the structure of a web page so that it can be more easily shared on social media platforms.
+OGP tags allow web admins to control how their content appears when it is shared on social media sites like Facebook and LinkedIn.
+
+3.What tag we will use to add an image to the website? Explain the points we should care
+about while adding the image to the website
+ans.example
+To insert image in an HTML page, use the <img> tags. It is an empty tag, containing only attributes since the closing tag is not required.
+ Just keep in mind that you should use the <img> tag inside <body>… </body> tag.
+
+4.What is the difference between NOFOLLOW and NOINDEX?
+ans.
+NoIndex and NoFollow are quite different in utility. 
+You will use NoIndex when instructing a search engine not to store your web
+ page for display in search results while you will use NoFollow when you are instructing search engine crawlers not to follow the links that are on your page.
+
+5.Explain the types of queries?
+ans.There are five types of query in Access. They are: Select queries • Action queries • Parameter queries • Crosstab queries 
+• SQL queries. Select Queries Select query is the simplest and the most common type of query.
+
+6.What is the importance of Site Map and Robot.txt in SEO?
+ans.Sitemaps and robots. txt files are essential tools for optimizing your website's crawling and indexing by search engines.
+ They help you communicate your site's structure, content, and preferences to the bots that scan and rank your pages.
+
+7.Below is the list of pages for an e-commerce site that doesn’t need to be crawled by any
+crawler.
+o Admin pages
+o Cart page
+o Thank-you page
+o Images
+How will you achieve this?
+ans.Before we dig into the basics of what meta robots tags and robots.txt files are, it’s important to know that there is not one side that’s better than the other to use in SEO.
+
+Robots.txt files instruct crawlers about the entire site.
+
+While meta robots tags get into the nitty-gritty of a specific page.
+
+I prefer to use meta robots tags for many things that other SEO professionals may
+
+
+8.What are on-page and off-page optimization?
+ans.
+On-page optimization involves optimizing the content on a website so that it is more easily found by search engines,
+ while off-page optimization involves building links to the website from other websites in order to increase its visibility and authority.
+
+9.Perform an on-page SEO using available tools for www.designer2developer.com
+ans.issue to fix						
+to provide a good user experience sites should aim for a largest contentful paint duratin of 2.5 seconds or less.						
+						
+it is recommended to avoid URL parameters and use hyphens to seprate words in the URL structure rather than underscores.						
+						
+switching to HTTPS is highly recommended by search engines to improve website rankings even for sites that don't collect sensitive customer information 						
+						
+h1 ans h2 tags ensure better search engine visibility and providing structure and hierachy to the content improving readability and providing opportunities for keyword optimization.						
+						
+consider using structured data in your webpage.
+(2)	suggested url
+	live designerdevlper
+	urban dessignerdevloper
+	shock designerdevloper
+	progressive designerdevloper
+	move designerdevloper
+	cure designerdevloper
+	vege designerdevloper
+
+10.Perform Keyword Research then create a blog on “Importance of IT Training” and provide a
+link to TOPS Technologies and connect it with the webmaster and Google Analytics
+
+ans.
+Title: The Importance of IT Training: Empowering the Digital Era
+
+Introduction:
+In today's technology-driven world, information technology (IT) plays a pivotal role in nearly every aspect of our lives. From businesses and organizations to personal endeavors, IT has become an integral part of our daily existence. With the rapid advancement of technology, it is crucial to recognize the significance of IT training and the role it plays in empowering individuals and businesses to thrive in the digital era. In this blog, we will explore the importance of IT training and how it can shape and enhance our lives.
+
+Bridging the Skills Gap:
+IT training serves as a bridge that connects individuals and organizations with the necessary skills and knowledge to navigate the digital landscape. In an era of rapid technological advancement, the demand for IT professionals continues to grow exponentially. By investing in IT training, individuals can acquire the skills needed to excel in various IT domains, such as programming, cybersecurity, data analysis, cloud computing, and more. This not only enhances their employability but also helps organizations address the ever-increasing skills gap.
+
+Enhancing Professional Growth:
+Continuous learning and upskilling are essential for career growth and professional development. IT training offers individuals the opportunity to stay ahead in the rapidly evolving tech industry. By acquiring new skills and knowledge through training programs, professionals can broaden their expertise, increase their value in the job market, and unlock new career opportunities. Whether you are an aspiring IT professional or an experienced veteran, investing in IT training can provide the competitive edge needed to thrive in a fast-paced industry.
+
+Boosting Organizational Efficiency and Productivity:
+For businesses and organizations, IT training is a vital component in achieving operational efficiency and enhancing productivity. When employees are equipped with up-to-date IT skills, they can leverage technology to streamline processes, optimize workflows, and solve complex problems. From basic computer literacy to specialized training in software applications or cybersecurity, IT training empowers employees to utilize technology effectively, ultimately leading to improved efficiency, reduced downtime, and increased productivity.
+
+Safeguarding Against Cyber Threats:
+In an era marked by increasing cyber threats and data breaches, IT training is crucial for individuals and organizations alike. Cybersecurity training equips individuals with the knowledge and skills to identify potential vulnerabilities, protect sensitive information, and respond effectively to security incidents. With cyber threats becoming more sophisticated, investing in IT training ensures individuals and organizations are well-prepared to defend against cyber-attacks, safeguard valuable data, and maintain the trust of customers and stakeholders.
+
+Fostering Innovation and Adaptability:
+Technology is constantly evolving, and staying ahead of the curve is vital for organizations to remain competitive. IT training fosters a culture of innovation and adaptability by empowering individuals to explore emerging technologies, experiment with new tools and techniques, and embrace digital transformation. Through training, individuals gain the confidence to adopt and integrate new technologies into their workflows, enabling organizations to innovate, adapt to market changes, and seize new opportunities.
+
+Conclusion:
+In the digital era, the importance of IT training cannot be overstated. It equips individuals with the skills and knowledge necessary to thrive in the technology-driven world and enables organizations to leverage technology effectively for increased efficiency, productivity, and security. As technology continues to shape our lives, investing in IT training becomes an essential component of personal and professional growth. Embracing the power of IT training opens doors to a world of opportunities, ensuring indi
+
+11.What is the use of Local SEO?
+ans.What is local SEO? Local SEO (Search Engine Optimization) is the process of improving search engine visibility for local businesses,
+ primarily those with brick-and-mortar locations. By following local SEO best practices, businesses can improve organic traffic from searches performed by customers in nearby areas.
+

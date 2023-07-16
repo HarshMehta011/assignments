@@ -1,0 +1,14 @@
+1.What are the main factors that can affect PPC bidding?
+ans.Bids for your keywords. As a matter of fact, the most important factor influencing your keywords' cost-per-click is your actual bid.
+Quality Score. This determines the relevance of your Ads to the products you are selling.
+Competition
+
+2.How does a search engine calculate actual CPC?
+ans.Average cost-per-click (avg. CPC) is calculated by dividing the total cost 
+of your clicks by the total number of clicks.
+
+3.What is a quality score and why it is important for Ads?
+ans.The Quality Score is Google's rating of the overall user experience that your ads and landing pages provide when users search for your keyword(s). 
+This is represented on a scale of 1-10, with 1 being the lowest and 10 being the highest.
+
+

@@ -1,0 +1,153 @@
+1- Give the name of the Traditional and Digital platform where we can promote TOPS
+Technologies Pvt. Ltd, and suggest which platform will be better for their marketing activity
+with a reason?
+
+* Digital marketing vs. traditional marketing: what's the ...
+The main difference between digital and traditional marketing is the medium through which an audience encounters a marketing message.
+ While traditional marketing uses traditional media like magazines and newspapers, digital marketing uses digital media, such as social media or websites.
+
+* facebook, instagram, twitter is better for marketing activity
+reason- 
+*attract customers, get customer feedback and build customer loyalty.
+
+*increase your market reach, including international markets.
+
+*do market research and reduce marketing costs.
+
+*increase revenue by building customer networks and advertising.
+
+*develop your brand.
+
+
+2-What are the Marketing activities and their uses?
+
+* Marketing activities
+
+*Ways to advertise your business.
+
+*Using direct marketing.
+
+*Using trade shows, exhibitions and events.
+
+*Sales promotions and discounts.
+
+*Managing public relations and the media.
+
+*Using professional marketing services.
+
+*Marketing on a small budget.
+
+
+3- What is Traffic?
+
+* Traffic is a count of the number of visitors to a website or web page, and the metric can be further defined by its source –
+ for example, paid or organic search engine traffic, campaign traffic
+ (from digital ads, emails, social media), direct traffic (direct visits perhaps following in-store promotions).
+
+
+4- Things we should see while choosing a domain name for a company.
+
+*Length. When it comes to a domain name, less is more.
+
+*Simplicity. You want people to remember your domain name and type it accurately.
+
+*Keywords. Relevant words help users find you in a search and recognise what you do at a glance.
+
+*Brand name.
+
+*Website name.
+
+*Good, not perfect.
+
+
+5- What is the difference between a Landing page and a Home page?
+
+*A landing page is a standalone web page created to drive a specific audience to take a specific action.
+ A homepage is the hub for a brand's website, introducing who they are and what they sell with a plethora of calls to action.
+
+6- List out some call-to-actions we use, on an e-commerce website.
+
+* Buy now. A simple, classic CTA that provides a clear action to follow and creates urgency with the word now.
+Complete my purchase.
+
+*Treat yourself today.
+
+*Grab it today.
+
+*Try out today.
+
+*Get the look.
+
+*Buy now to avoid disappointment.
+
+*Buy now and enjoy {add user benefit}
+
+7- What is the meaning, of keywords and what add-ons we can use with them?
+
+* Keywords are words or phrases that users type into search engines to find relevant content for their queries.
+ Because keywords come from search queries,
+ incorporating these terms into your content strategy helps search engines rank your website pages and users find your content when looking for it.
+
+
+8- Please write some of the major Algorithm updates and their effect on Google rankings.
+
+* major Google algorithm updates, explained · 1. Panda · 2. Penguin · 3. Hummingbird · 4. Mobile · 5. RankBrain · 6. Medic · 7. Bert · 8. Core Updates.
+
+
+9- What is the Crawling and Indexing process and who performs it?
+
+*Crawling is the discovery of pages and links that lead to more pages. Indexing is storing, analyzing, and organizing the content and connections between pages.
+ There are parts of indexing that help inform how a search engine crawls.
+
+
+10- Difference between Organic and Inorganic results.
+
+* Organic results give long-lasting results, while Inorganic results give immediate ranking, driving huge traffic.
+
+
+11-  Create a blog for the latest SEO trends in the market using any blogging site.
+
+*  https://www.blogger.com/blog/pages/3401359786329315665
+
+
+12-  Create a website for the business using Wix.com / Wordpress.com / Google Sites
+
+*   https://mehtaharsh76700.wixsite.com/digitalmarkeing
+
+
+
+
+
+13-Perform Keyword Research for www.designer2developer.com
+
+*Keywords
+
+ Monthly search volume
+Top of page bid (low range)	Top of page bid (high range)
+
+ Competition
+app development	22,200	$10.36	$41.97	MEDIUM
+mobile app developer	18,100	$10.42	$36.45	LOW
+app builders	8,100	$3.97	$18.49	MEDIUM
+mobile app development company	5,400	$25.00	$58.40	MEDIUM
+app development company	5,400	$20.00	$60.00	MEDIUM
+develop android app	5,400	$5.18	$22.00	LOW
+app developers	4,400	$27.07	$77.85	MEDIUM
+application development	4,400	$8.10	$38.00	LOW
+create mobile app	4,400	$5.08	$25.31	LOW
+app development software	3,600	$5.52	$22.53	LOW
+app development ios	3,600	$3.40	$22.50	LOW
+mobile development	2,900	$5.63	$29.96	LOW
+mobile app builder	2,900	$4.03	$23.87	LOW
+mobile application development	2,400	$10.30	$40.00	LOW
+custom mobile app development	2,400	$24.58	$60.00	LOW
+mobile app development usa	2,400	$15.77	$31.98	LOW
+mobile app developers in usa	2,400	$30.00	$76.03	LOW
+cost to develop an app	1,900	$4.83	$17.41	LOW
+app development company in usa	1,900	$20.00	$61.60	MEDIUM
+android app dev	1,900	$3.71	$20.00	LOW
+app developers india	1,600	$22.90	$63.21	LOW
+make android app	1,600	$2.83	$19.14	LOW
+create an android app	1,600	$3.66	$20.00	LOW
+best app development company	1,300	$18.25	$76.03	MEDIUM
+app development usa	1,300	$32.18	$65.79	MEDIUM

@@ -1,0 +1,85 @@
+Please break down URL listed below.(list-out protocol,domain,TLD)
+
+1 https://www.flipkart.com/
+
+*https//:protocol
+
+*WWW.subdomain
+
+*flipkart domain
+
+*.com top-level domain
+
+
+2. https:WWW.irctc.co.in/
+
+* https:// protocol
+
+* WWW. subdomain
+
+* irctc domain
+
+* .co top-level domain
+
+* .in subdirectory
+
+
+3.https://www.allegro.pl/
+
+* https:// protocol
+
+* WWW. subdomain
+
+*allegro domain
+
+*.pl/ top-level domain
+
+
+4.https:// www.johnlewispartnership.co.uk/
+
+*https:// procotol
+
+* WWW. subdomain
+
+* johnlewispartnership  domain
+
+*.co top-level domain
+
+*.uk/ subdirectory
+
+
+
+5. https://www.uidai.gov.in/
+
+*https:// procotol
+
+*www. subdomain
+
+*uidai domain
+
+*gov top-level domain
+
+* .in/ subdirectory
+
+
+2 What is HTTPS/SSL update?
+
+*HTTPS (Hypertext Transfer Protocol Secure)
+ is a secure version of the HTTP protocol that uses the SSL/TLS protocol for encryption and authentication.
+
+
+3 List out 10 famous browsers used worldwide.
+
+1) Firefox
+2) Google Chrome
+3) Microsoft Edge
+4) Apple Safari
+5) Opera
+6) Brave
+7) Vivaldi
+8) DuckDuckGo
+9) Chromium
+10) Epic
+
+
+
